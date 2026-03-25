@@ -1,0 +1,5 @@
+Value_Risk_Bucket,Churn_Pred,Customers
+High Value High Risk,1,384
+High Value Low Risk,0,1772
+Low Value High Risk,1,1670
+Low Value Low Risk,0,486
