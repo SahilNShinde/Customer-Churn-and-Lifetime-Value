@@ -185,3 +185,4 @@ Expected outputs created in the repo root:
 - **Segmentation**: K-Means on scaled RFM with 4 clusters; clusters mapped to business labels.
 - **Churn model**: Random Forest trained on `Frequency`, `Monetary`, `AvgOrderValue` (explicitly excluding `Recency` to reduce leakage), producing `Churn_Probability`.
 
+## the link to use the streamlit app https://aimoneymentor-clggu3brce3wx6kzikd3ne.streamlit.app/
